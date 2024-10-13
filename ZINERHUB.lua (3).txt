@@ -3245,7 +3245,7 @@ spawn(function()
                                 end    
 							end    
 						else
-							Tween(CFrame.new(-2009.2802734375, 4532.97216796875, -14937.3076171875)) 
+							Tween(CFrame.new(-2151.82153, 149.315704, -12404.9053, 0.087131381, -0, -0.996196866, 0, 1, -0, 0.996196866, 0, 0.087131381)) 
 						end
 					else
                         if game.Workspace.Enemies:FindFirstChild("Baking Staff") or game.Workspace.Enemies:FindFirstChild("Head Baker") or game.Workspace.Enemies:FindFirstChild("Cake Guard") or game.Workspace.Enemies:FindFirstChild("Cookie Crafter")  then
