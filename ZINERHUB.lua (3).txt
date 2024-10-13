@@ -3226,7 +3226,10 @@ spawn(function()
 		while wait() do
 			if _G.CakePrince then
                 pcall(function()
-                    local CakeCFrame = CFrame.new(-2151.82153, 149.315704, -12404.9053, 0.087131381, -0, -0.996196866, 0, 1, -0, 0.996196866, 0, 0.087131381)
+                    local CakeCFrame = CFrame.new(-2491.59155, 245.399933, -12081.7949, -1.2755394e-05, 0.819186091, 0.573527873, -1, -1.2755394e-05, -3.9935112e-06, 3.9935112e-06, -0.573527873, 0.819186032)
+                    local CakeCFrame = CFrame.new(-2180.42896, 278.437286, -11957.3652, 0.0224964619, -0.574222803, -0.818389952, -0.996195436, 0.0560624599, -0.0667202771, 0.0841932297, 0.816777349, -0.570776939)
+                    local CakeCFrame = CFrame.new(-1949.00171, 245.600006, -12795.6611, 5.40614128e-05, 0.882971644, -0.469426453, -1, 5.40614128e-05, -1.34855509e-05, 1.34855509e-05, 0.469426453, 0.882971585)
+                    local CakeCFrame = CFrame.new(-1356.9353, 245.800079, -12290.0225, -5.96046448e-07, -0.0871878564, 0.996191859, -1, 5.96046448e-07, -5.66244125e-07, -5.66244125e-07, -0.996191859, -0.087187767)
                     toTarget(CakeCFrame)
 					if game.ReplicatedStorage:FindFirstChild("Cake Prince") or game:GetService("Workspace").Enemies:FindFirstChild("Cake Prince") then   
 						if game:GetService("Workspace").Enemies:FindFirstChild("Cake Prince") then
